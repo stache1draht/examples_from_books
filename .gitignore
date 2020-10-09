@@ -1,6 +1,6 @@
 /java/bruce_eckel/thinking_in_java/*/*/*.iml
 /java/bruce_eckel/thinking_in_java/*/*/out/*
 /java/bruce_eckel/thinking_in_java/*/*/.idea/*
-/java/schildt/swing_a_beginners_guide/*/*/*.iml
-/java/schildt/swing_a_beginners_guide/*/*/out/*
-/java/schildt/swing_a_beginners_guide/*/*/.idea/*
+/java/schildt/swing_a_beginners_guide/*/*.iml
+/java/schildt/swing_a_beginners_guide/*/out/*
+/java/schildt/swing_a_beginners_guide/*/.idea/*
