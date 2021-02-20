@@ -10,7 +10,7 @@ public class Main
 
 
             /**
-             * To determin the real length of a string, use the following method.
+             * To determine the real length of a string, use the following method.
              */
             String greeting="Oello";
             int cpCount=greeting.codePointCount(0, greeting.length());
