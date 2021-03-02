@@ -31,5 +31,25 @@ public class Main
              * as shown below.
              */
             String str=new String(codePoints, 0, codePoints.length);
+
+            /**
+             * If you need to create a string from several small pieces, construct an empty StringBuilder object
+             */
+            StringBuilder sb=new StringBuilder();
+
+            /**
+             * Call the append() method when you need to add a new piece to this string
+             */
+            char ch='a';
+            sb.append(ch);
+
+            String str1="some string";
+            sb.append(str1);
+
+
+            /**
+             * Call the toString method when the new string has been created
+             */
+            String completeString=sb.toString();
         }
     }
